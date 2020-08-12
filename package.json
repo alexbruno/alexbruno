@@ -1,0 +1,37 @@
+{
+  "name": "alexbruno",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "run-s lint:*",
+    "lint:prettier": "pretty-quick --pattern **/*.{js,vue}",
+    "lint:style": "stylelint **/*.{css,vue} --ignore-path .gitignore",
+    "precommit": "npm run lint && npm run generate && git add ."
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.5.0",
+    "nuxt": "^2.14.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/stylelint-module": "^4.0.0",
+    "@nuxtjs/tailwindcss": "^3.0.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "husky": "^4.2.5",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.0.5",
+    "pretty-quick": "^2.0.1",
+    "stylelint": "^13.6.1",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run precommit"
+    }
+  }
+}
