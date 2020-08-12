@@ -4,6 +4,10 @@ export default {
   server: {
     port: 8888,
   },
+  loading: {
+    color: 'white',
+    height: '5px',
+  },
   /*
    ** Headers of the page
    ** See https://nuxtjs.org/api/configuration-head
