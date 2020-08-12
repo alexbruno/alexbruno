@@ -1,4 +1,29 @@
 html,
 body {
-  @apply bg-teal-100;
+  @apply bg-teal-500;
+}
+
+.page-enter-active,
+.page-leave-active {
+  transition: opacity 0.5s;
+}
+.page-enter,
+.page-leave-to {
+  opacity: 0;
+}
+
+.content p {
+  @apply my-2;
+}
+
+.content hr {
+  @apply my-4;
+}
+
+.content ul {
+  @apply p-4 pl-8 list-disc;
+}
+
+.content ul li {
+  @apply my-1;
 }
