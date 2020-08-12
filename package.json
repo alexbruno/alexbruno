@@ -10,7 +10,8 @@
     "lint": "run-s lint:*",
     "lint:prettier": "pretty-quick --pattern **/*.{js,vue}",
     "lint:style": "stylelint **/*.{css,vue} --ignore-path .gitignore",
-    "precommit": "npm run lint && git add ."
+    "readme": "cp -f ./content/readme.md ./README.md",
+    "precommit": "npm run lint && npm run readme && git add ."
   },
   "dependencies": {
     "@nuxt/content": "^1.5.0",
