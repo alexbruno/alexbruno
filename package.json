@@ -8,6 +8,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
+    "deploy": "nuxt build && nuxt generate",
     "lint": "run-s lint:*",
     "lint:prettier": "pretty-quick --pattern **/*.{js,vue}",
     "lint:style": "stylelint **/*.{css,vue} --ignore-path .gitignore",

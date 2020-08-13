@@ -1,5 +1,5 @@
 export default {
-  mode: 'spa',
+  mode: 'universal',
   target: 'static',
   server: {
     port: 8888,
