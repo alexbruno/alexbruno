@@ -5,7 +5,7 @@
       class="h-32 w-32 rounded-full"
       :alt="name"
     />
-    <figcaption class="text-2xl">{{ name }}</figcaption>
+    <figcaption class="text-2xl mt-2">{{ name }}</figcaption>
   </figure>
 </template>
 

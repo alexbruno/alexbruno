@@ -12,18 +12,23 @@ body {
   opacity: 0;
 }
 
-.content p {
+/* Nuxt Content */
+.nuxt-content h1 {
+  @apply text-4xl my-4;
+}
+
+.nuxt-content p {
   @apply my-2;
 }
 
-.content hr {
+.nuxt-content hr {
   @apply my-4;
 }
 
-.content ul {
+.nuxt-content ul {
   @apply p-4 pl-8 list-disc;
 }
 
-.content ul li {
+.nuxt-content ul li {
   @apply my-1;
 }

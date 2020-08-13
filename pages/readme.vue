@@ -12,7 +12,7 @@
         <strong>alexbruno</strong>
       </p>
 
-      <nuxt-content class="content" :document="readme" />
+      <nuxt-content :document="readme" />
     </web-card>
   </main>
 </template>
