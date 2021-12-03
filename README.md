@@ -36,7 +36,7 @@ Practice on Linux and Windows operating systems with advanced features such as d
 
 Interest in DevOps, cloud technologies, CI/CD, automation and software testing.
 
-Research and testing with DevOps features on Github, Gitlab, Bitbucket, Netlify, Vercel, Google Firebase, Microsoft Azure, Amazon AWS, Google Cloud and other similar services.
+Research and testing DevOps features on Github, Gitlab, Bitbucket, Netlify, Vercel, Google Firebase, Microsoft Azure, Amazon AWS, Google Cloud and other similar services.
 
 - 💻 I am currently working on [Caiena Tecnologia e Design](https://www.caiena.net/) projects.
 - 📚 I've been learning HTML/CSS/JS and technologies related to frontend development for 10 years, I always try to be up to date.
