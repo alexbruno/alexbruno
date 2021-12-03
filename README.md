@@ -18,7 +18,7 @@ Pesquisas e testes com recursos de DevOps no Github, Gitlab, Bitbucket, Netlify,
 - 📚 Estou há mais de 10 anos aprendendo HTML/CSS/JS e tecnologias relacionadas ao desenvolvimento frontend, procuro estar sempre atualizado.
 - 📖 Gosto de contribuir com projetos Open Source.
 - 💬 Pergunte-me sobre desenvolvimento frontend em geral, mas principalmente sobre JS e Vue, são minha especialidade.
-- 🎮 Além disso... Sou casado e tenho 2 filhas, família linda que amo e me faz feliz! Gosto de games, vida fitness, cinema e algumas séries quando tenho tempo. Atualmente também estou me divertindo muito com a minha nova assistente Alexa (Amazon Echo).
+- 🎮 Além disso... Sou casado e tenho 2 filhas, família linda que amo e me faz feliz! Gosto de games, vida fitness, cinema e algumas séries quando tenho tempo para ver.
 
 ---
 
@@ -42,4 +42,4 @@ Research and testing DevOps features on Github, Gitlab, Bitbucket, Netlify, Verc
 - 📚 I've been learning HTML/CSS/JS and technologies related to frontend development for over 10 years, I always try to be up to date.
 - 📖 I like to contribute to Open Source projects.
 - 💬 Ask me about frontend development in general, but mainly about JS and Vue, they are my specialty.
-- 🎮 Also ... I am married and I have 2 daughters, beautiful family that I love and makes me happy! I like games, fitness life, cinema and some series when I have time. I am also currently having a lot of fun with my new Alexa assistant (Amazon Echo).
+- 🎮 Also ... I am married and we have 2 daughters, a beautiful family that I love and makes me happy! I like games, fitness life, cinema, and some series when I have time to watch.
