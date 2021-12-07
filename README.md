@@ -14,7 +14,7 @@ Interesse em DevOps, tecnologias em nuvem, CI/CD, automações e testes de softw
 
 Pesquisas e testes com recursos de DevOps no Github, Gitlab, Bitbucket, Netlify, Vercel, Google Firebase, Microsoft Azure, Amazon AWS, Google Cloud e outros serviços semelhantes.
 
-- 💻 Estou trabalhando atualmente em projetos da [Caiena Tecnologia e Design](https://www.caiena.net/).
+- 💻 Estou trabalhando atualmente em parceria com empresas internacionais, em projetos para clientes nos EUA.
 - 📚 Estou há mais de 10 anos aprendendo HTML/CSS/JS e tecnologias relacionadas ao desenvolvimento frontend, procuro estar sempre atualizado.
 - 📖 Gosto de contribuir com projetos Open Source.
 - 💬 Pergunte-me sobre desenvolvimento frontend em geral, mas principalmente sobre JS e Vue, são minha especialidade.
@@ -38,7 +38,7 @@ Interest in DevOps, cloud technologies, CI/CD, automation and software testing.
 
 Research and testing DevOps features on Github, Gitlab, Bitbucket, Netlify, Vercel, Google Firebase, Microsoft Azure, Amazon AWS, Google Cloud and other similar services.
 
-- 💻 I am currently working on [Caiena Tecnologia e Design](https://www.caiena.net/) projects.
+- 💻 I am currently working as a partner of international companies on projects for clients in the USA.
 - 📚 I've been learning HTML/CSS/JS and technologies related to frontend development for over 10 years, I always try to be up to date.
 - 📖 I like to contribute to Open Source projects.
 - 💬 Ask me about frontend development in general, but mainly about JS and Vue, they are my specialty.
