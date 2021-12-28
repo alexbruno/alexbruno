@@ -8,8 +8,6 @@ Tenho experiência também desenvolvendo módulos NPM e CLIs JavaScript para dis
 
 Habilidade backend de nível básico a intermediário com Node.js, PHP e Python.
 
-Prática nos sistemas operacionais Linux e Windows em recursos avançados como ferramentas de desenvolvimento e serviços web.
-
 Interesse em DevOps, tecnologias em nuvem, CI/CD, automações e testes de software.
 
 Pesquisas e testes com recursos de DevOps no Github, Gitlab, Bitbucket, Netlify, Vercel, Google Firebase, Microsoft Azure, Amazon AWS, Google Cloud e outros serviços semelhantes.
@@ -31,8 +29,6 @@ I am a developer with solid experience and advanced skills in frontend web devel
 I also have experience in developing NPM modules and JavaScript CLIs for resource distribution and reuse.
 
 Basic to intermediate backend skills with Node.js, PHP and Python.
-
-Practice on Linux and Windows operating systems with advanced features such as development tools and web services.
 
 Interest in DevOps, cloud technologies, CI/CD, automation and software testing.
 
